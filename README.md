@@ -1,6 +1,6 @@
 # template-site
 
-[![Resume Preview](/img/previw-template.jpg)](https://limaisaias.github.io/template-site/)
+[![Resume Preview](/img/preview-template.jpg)](https://limaisaias.github.io/template-site/)
 
 **[View Live Preview](https://limaisaias.github.io/template-site/)**
 
